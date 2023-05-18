@@ -1,0 +1,94 @@
+﻿User Manual
+
+
+
+
+___Application Features___
+* Scalable Text
+* User Authentication with playfab
+* UI/UX Responsive Interface
+* Simple UI/UX Interface
+* Contact Form for Future Suggestions
+* Enabling Signup - User Registration
+* Leaderboard and Competitive Analysis (Scores)
+* Main Menu and Dashboard
+* Bold Color Scheme UI/UX
+* Secure Authentication
+* Accurate Image Resolution
+* Optimal Performance and Speed
+* Privacy Standards for Email Authentication
+
+
+___Tasks___
+Task 1: Play as Guest
+Instead of player registration, users can click on the "Play as Guest" option to play but your points and levels will only save until you exit the game once exited you will not come back with the same level and points as they have reset
+
+
+Task 2: Registration
+Enter an email 
+Enter a username that would be used in game 
+Enter a password
+Enter the password again to confirm
+Click register
+
+
+Task 3: Login
+Enter email and password and click login
+Login with your account to save your points and levels
+Errors: If credentials do not match the error will display on the screen letting users know what the error is
+
+
+Task 4: New Level
+Click on New Level after player registration or if playing as a Guest
+
+
+Task 5: Continue Level
+Click on Continue Level after player registration or if playing as a Guest
+
+
+Task 6: Move Player
+Use arrow keys: Up, Down, Left, and Right to move
+
+
+Task 7: Avoid collision
+Use arrows keys to avoid enemies: Up, Down, Left, and Right
+
+
+Task 8: Collide with Locks
+Use arrow keys to collide with locks
+
+
+Task 9: Answer the correct question
+Click on the answer with the mouse that is the answer to the question
+
+
+Task 10: Hint button
+You can use hint button for remove the wrong answer but you have to use point 
+
+
+Task 11: Collect Bonuses
+Use arrow keys to collide with treasure chests
+
+
+Task 12: Finish level
+Use arrow keys to collide with red flag
+
+
+Task 13: Leaderboard
+Click on leaderboard see your rank
+
+
+Task 14: Contact Us
+Click on Contact Us Tab on web application and fill out the contact form to get in touch with us
+
+
+Task 15: How to Play
+Click on How To Play Tab on web application to learn how to play the game
+
+
+Task 16: Learn about the Developers
+Click on About Us Tab to learn about the developers
+
+
+Task 17: Host website
+Open up the FinalProjectWebsite folder with visual studio code and run one of the HTML files on a live server

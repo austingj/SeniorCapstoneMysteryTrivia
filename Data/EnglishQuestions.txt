@@ -1,0 +1,418 @@
+[
+  {
+    "q": "I _____  the ball",
+    "answer1": "Throwed",
+    "answer2": "Through",
+    "answer3": "Threw",
+    "answer4": "Throws",
+    "answer": "Threw"
+  },
+  {
+    "q": "___ house is on fire.",
+    "answer1": "There",
+    "answer2": "Their",
+    "answer3": "They're",
+    "answer4": "Thare",
+    "answer": "Their"
+  },
+  {
+    "q": "My dog ___ a nap last night",
+    "answer1": "Take",
+    "answer2": "Takes",
+    "answer3": "Took",
+    "answer4": "Taken",
+    "answer": "Took"
+  },
+  {
+    "q": "Yesterday josh  ____ with the ball",
+    "answer1": "Ran",
+    "answer2": "Run",
+    "answer3": "Running",
+    "answer4": "Runs",
+    "answer": "Ran"
+  },
+  {
+    "q": "What is the plural of man",
+    "answer1": "Guys",
+    "answer2": "Mans",
+    "answer3": "Boy",
+    "answer4": "Men",
+    "answer": "Men"
+  },
+  {
+    "q": "What is the noun in this sentence? The windows need to be open",
+    "answer1": "Windows",
+    "answer2": "Need",
+    "answer3": "The",
+    "answer4": "Open",
+    "answer": "Windows"
+  },
+  {
+    "q": "What is the noun in this sentence? The stinky socks were gross",
+    "answer1": "Stinky",
+    "answer2": "Gross",
+    "answer3": "Were",
+    "answer4": "Socks",
+    "answer": "Socks"
+  },
+  {
+    "q": "Identify which word is spelled correctly",
+    "answer1": "Adviece",
+    "answer2": "Advice",
+    "answer3": "Addvice",
+    "answer4": "Edvice",
+    "answer": "Advice"
+  },
+  {
+    "q": "The new restaurant ___ last month",
+    "answer1": "Opening",
+    "answer2": "Opens",
+    "answer3": "Opened",
+    "answer4": "Starting",
+    "answer": "Opened"
+  },
+  {
+    "q": "Identify which word is spelled correctly",
+    "answer1": "Balioon",
+    "answer2": "Balloon",
+    "answer3": "Baloon",
+    "answer4": "Belloon",
+    "answer": "Balloon"
+  },
+  {
+    "q": "What is the correct spelling of the word for a fluffy white precipitation?",
+    "answer1": "Sniw",
+    "answer2": "Snaw",
+    "answer3": "Snow",
+    "answer4": "Snwo",
+    "answer": "Snow"
+  },
+  {
+    "q": "Which of the following is an example of a proper noun?",
+    "answer1": "Ball",
+    "answer2": "Dog",
+    "answer3": "New York City",
+    "answer4": "Tree",
+    "answer": "New York City"
+  },
+  {
+    "q": "What is the definition of a verb?",
+    "answer1": "A person, place, thing, or idea",
+    "answer2": "A word that shows action or state of being",
+    "answer3": "A word that describes a noun or pronoun",
+    "answer4": "A word that connects phrases or clauses",
+    "answer": "A word that shows action or state of being"
+  },
+  {
+    "q": "What is the subject of the following sentence? \"The dog ran to the park\"",
+    "answer1": "The",
+    "answer2": "Dog",
+    "answer3": "Ran",
+    "answer4": "Park",
+    "answer": "Dog"
+  },
+  {
+    "q": "What is the object of the following sentence? \"She gave the book to him\"",
+    "answer1": "She",
+    "answer2": "Gave",
+    "answer3": "Book",
+    "answer4": "Him",
+    "answer": "Book"
+  },
+  {
+    "q": "Which of the following is a conjunction?",
+    "answer1": "Run",
+    "answer2": "And",
+    "answer3": "Happy",
+    "answer4": "Blue",
+    "answer": "And"
+  },
+  {
+    "q": "What is the correct order of the following sentence? \"ate breakfast He\"",
+    "answer1": "Ate he breakfast",
+    "answer2": "He breakfast ate",
+    "answer3": "He ate breakfast",
+    "answer4": "Breakfast he ate",
+    "answer": "He ate breakfast"
+  },
+  {
+    "q": "Which of the following is an example of a compound word?",
+    "answer1": "Cat",
+    "answer2": "House",
+    "answer3": "Butterflies",
+    "answer4": "Mouse",
+    "answer": "Butterflies"
+  },
+  {
+    "q": "Which of the following is a possessive noun?",
+    "answer1": "Children",
+    "answer2": "Child's",
+    "answer3": "Child",
+    "answer4": "Children's",
+    "answer": "Children's"
+  },
+  {
+    "q": "Which of the following is a preposition?",
+    "answer1": "With",
+    "answer2": "Happy",
+    "answer3": "Bicycle",
+    "answer4": "Chair",
+    "answer": "With"
+  },
+  {
+    "q": "What is the definition of an adverb?",
+    "answer1": "A word that shows action or state of being",
+    "answer2": "A word that describes a noun or pronoun",
+    "answer3": "A word that replaces a noun or noun phrase",
+    "answer4": "A word that describes a verb, adjective, or other adverb",
+    "answer": "A word that describes a verb, adjective, or other adverb"
+  },
+  {
+    "q": "Which of the following is a synonym for the word \"happy\"?",
+    "answer1": "Sad",
+    "answer2": "Angry",
+    "answer3": "Joyful",
+    "answer4": "Tired",
+    "answer": "Joyful"
+  },
+  {
+    "q": "Which of the following is an antonym for the word \"big\"?",
+    "answer1": "Huge",
+    "answer2": "Little",
+    "answer3": "Enormous",
+    "answer4": "Gigantic",
+    "answer": "Little"
+  },
+  {
+    "q": "Which of the following is a homophone for the word \"right\"?",
+    "answer1": "Write",
+    "answer2": "Rite",
+    "answer3": "Wring",
+    "answer4": "Ring",
+    "answer": "Write"
+  },
+  {
+    "q": "Which of the following is a synonym for “big”?",
+    "answer1": "Small",
+    "answer2": "Tiny",
+    "answer3": "Huge",
+    "answer4": "Short",
+    "answer": "Huge"
+  },
+  {
+    "q": "Which of the following is a synonym for “cold”?",
+    "answer1": "Warm",
+    "answer2": "Hot",
+    "answer3": "Freezing",
+    "answer4": "Cool",
+    "answer": "Freezing"
+  },
+  {
+    "q": "Which of the following is an adverb?",
+    "answer1": "Fast",
+    "answer2": "Elephant",
+    "answer3": "Happy",
+    "answer4": "School",
+    "answer": "Fast"
+  },
+  {
+    "q": "What is a proper noun?",
+    "answer1": "A person, place, or thing",
+    "answer2": "A specific person, place, or thing",
+    "answer3": "An action word",
+    "answer4": "A connecting word",
+    "answer": "A specific person, place, or thing"
+  },
+  {
+    "q": "What is a contraction?",
+    "answer1": "A word made up of two or more words",
+    "answer2": "A word that has a prefix",
+    "answer3": "A word that has a suffix",
+    "answer4": "A shortened version of two words with an apostrophe",
+    "answer": "A shortened version of two words with an apostrophe"
+  },
+  {
+    "q": "What is a comma?",
+    "answer1": "A punctuation mark used to separate items in a list",
+    "answer2": "A punctuation mark used to end a sentence",
+    "answer3": "A punctuation mark used to connect two independent clauses",
+    "answer4": "A punctuation mark used to indicate a question",
+    "answer": "A punctuation mark used to separate items in a list"
+  },
+  {
+    "q": "Which of the following is a synonym for “fast”?",
+    "answer1": "Slow",
+    "answer2": "Quick",
+    "answer3": "Slick",
+    "answer4": "Sneaky",
+    "answer": "Quick"
+  },
+  {
+    "q": "Which word means the opposite of \"beginning\"?",
+    "answer1": "Start",
+    "answer2": "Middle",
+    "answer3": "End",
+    "answer4": "Conclusion",
+    "answer": "End"
+  },
+  {
+    "q": "Which of the following is a pronoun?",
+    "answer1": "Car",
+    "answer2": "She",
+    "answer3": "Happy",
+    "answer4": "Run",
+    "answer": "She"
+  },
+  {
+    "q": "Which of the following is a common noun?",
+    "answer1": "Car",
+    "answer2": "Toyota",
+    "answer3": "New York City",
+    "answer4": "Statue of Liberty",
+    "answer": "Car"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Convenient",
+    "answer2": "Conveneint",
+    "answer3": "Conveinient",
+    "answer4": "Convenyent",
+    "answer": "Convenient"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Embarrass",
+    "answer2": "Embarras",
+    "answer3": "Embaras",
+    "answer4": "Emberrass",
+    "answer": "Embarrass"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Separate",
+    "answer2": "Seperate",
+    "answer3": "Seperrate",
+    "answer4": "Separete",
+    "answer": "Separate"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Maintenance",
+    "answer2": "Maintenence",
+    "answer3": "Maintainance",
+    "answer4": "Maintenanse",
+    "answer": "Maintenance"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Accommodation",
+    "answer2": "Accomodation",
+    "answer3": "Accomodasion",
+    "answer4": "Accomodationn",
+    "answer": "Accommodation"
+  },
+  {
+    "q": "What does the word \"persuade\" mean?",
+    "answer1": "To make a mistake",
+    "answer2": "To change one's opinion",
+    "answer3": "To laugh loudly",
+    "answer4": "To give up",
+    "answer": "To change one's opinion"
+  },
+  {
+    "q": "Which word means the opposite of \"beginning\"?",
+    "answer1": "Start",
+    "answer2": "Middle",
+    "answer3": "End",
+    "answer4": "Conclusion",
+    "answer": "End"
+  },
+  {
+    "q": "Which of the following is a proper adjective?",
+    "answer1": "Pretty",
+    "answer2": "Smart",
+    "answer3": "Spanish",
+    "answer4": "Fast",
+    "answer": "Spanish"
+  },
+  {
+    "q": "Which of the following is a possessive pronoun?",
+    "answer1": "They",
+    "answer2": "Our",
+    "answer3": "Her",
+    "answer4": "Who",
+    "answer": "Our"
+  },
+  {
+    "q": "Which of the following is a compound word?",
+    "answer1": "Cat",
+    "answer2": "Sun",
+    "answer3": "Notebook",
+    "answer4": "Jump",
+    "answer": "Notebook"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Possesion",
+    "answer2": "Possession",
+    "answer3": "Posession",
+    "answer4": "Posessionn",
+    "answer": "Possession"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Fridge",
+    "answer2": "Fridje",
+    "answer3": "Frige",
+    "answer4": "Friddge",
+    "answer": "Fridge"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Receive",
+    "answer2": "Recieve",
+    "answer3": "Receeve",
+    "answer4": "Recive",
+    "answer": "Receive"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "February",
+    "answer2": "Febuary",
+    "answer3": "Febrary",
+    "answer4": "Feburary",
+    "answer": "February"
+  },
+  {
+    "q": "Which of the following is the correct spelling?",
+    "answer1": "Tragedy",
+    "answer2": "Tradgedy",
+    "answer3": "Tragidy",
+    "answer4": "Tragedee",
+    "answer": "Tragedy"
+  },
+  {
+    "q": "Which of the following is the correct spelling of the month below?",
+    "answer1": "Miarch",
+    "answer2": "Marche",
+    "answer3": "March",
+    "answer4": "Maerche",
+    "answer": "March"
+  },
+  {
+    "q": "Which of the following is the correct spelling of the month below?",
+    "answer1": "Juine",
+    "answer2": "June",
+    "answer3": "Jine",
+    "answer4": "Jiune",
+    "answer": "June"
+  },
+  {
+    "q": "Which of the following is the correct spelling of the month below?",
+    "answer1": "Julie",
+    "answer2": "Juley",
+    "answer3": "July",
+    "answer4": "Juily",
+    "answer": "July"
+  }
+]

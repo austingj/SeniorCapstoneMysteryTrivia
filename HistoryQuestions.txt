@@ -1,0 +1,442 @@
+[
+  {
+    "q": "Which of these countries was the first to invent paper money?",
+    "answer1": "The United States",
+    "answer2": "China",
+    "answer3": "France",
+    "answer4": "India",
+    "answer": "China"
+  },
+  {
+    "q": "What was the feudal system?",
+    "answer1": "A long held grudge",
+    "answer2": "A fast and efficent mail network",
+    "answer3": "A system of land ownership based on nobility",
+    "answer4": "A kind of inheritance",
+    "answer": "A system of land ownership based on nobility"
+  },
+  {
+    "q": "What year was the 50th state admitted to the united states?",
+    "answer1": "1912",
+    "answer2": "1946",
+    "answer3": "1958",
+    "answer4": "1959",
+    "answer": "1959"
+  },
+  {
+    "q": "Who invented the airplane?",
+    "answer1": "Pilatre De Rozier",
+    "answer2": "Daniel Bernoulli",
+    "answer3": "Orville Wright and Wilbur Wright",
+    "answer4": "Ferdinand von Zeppelin",
+    "answer": "Orville Wright and Wilbur Wright"
+  },
+  {
+    "q": "How many terms did george washington serve as president?",
+    "answer1": "1",
+    "answer2": "2",
+    "answer3": "3",
+    "answer4": "4",
+    "answer": "2"
+  },
+  {
+    "q": "Which of these cities is closest to the great pyramids of Giza?",
+    "answer1": "Cairo",
+    "answer2": "Houston",
+    "answer3": "Cuzco",
+    "answer4": "Bangaledesh",
+    "answer": "Cairo"
+  },
+  {
+    "q": "Which of these women is considered a leader of the suffragate movement?",
+    "answer1": "Gloria Steinem",
+    "answer2": "Jackie Kennedy",
+    "answer3": "Susan B. Anthony",
+    "answer4": "Harriet Tubman",
+    "answer": "Susan B. Anthony"
+  },
+  {
+    "q": "The Lousisana purchase was an agreement between the United States and which country?",
+    "answer1": "France",
+    "answer2": "England",
+    "answer3": "Portugal",
+    "answer4": "Spain",
+    "answer": "France"
+  },
+  {
+    "q": "Who was george Washington's vice president?",
+    "answer1": "Alexandar Hamilton",
+    "answer2": "John Adams",
+    "answer3": "Benjamin Franklin",
+    "answer4": "Henry Clay",
+    "answer": "John Adams"
+  },
+  {
+    "q": "Who was the inventor of the telegraph?",
+    "answer1": "Benjaman Franklin",
+    "answer2": "Nicolai Tesla",
+    "answer3": "Alexandar Graham Bell",
+    "answer4": "Samuel Morse",
+    "answer": "Samuel Morse"
+  },
+  {
+    "q": "Who were the Mountain men?",
+    "answer1": "Men as large as mountains",
+    "answer2": "Gold prospectors",
+    "answer3": "People who liked mountains",
+    "answer4": "Fur trappers and guides through the rockies",
+    "answer": "Fur trappers and guides through the rockies"
+  },
+  {
+    "q": "What was Manifest destiny?",
+    "answer1": "The belief that the United States should expand to the Pacific ocean",
+    "answer2": "A destiny that has not yet come",
+    "answer3": "Spiritual visualization of the future",
+    "answer4": "Anti-cuban sentiment",
+    "answer": "The belief that the United States should expand to the Pacific ocean"
+  },
+  {
+    "q": "What does sufferage mean?",
+    "answer1": "Suffering for one's beliefs",
+    "answer2": "Suffering to gain property",
+    "answer3": "The right to vote",
+    "answer4": "The right to uncruel and usual punishment",
+    "answer": "The right to vote"
+  },
+  {
+    "q": "Nationalism is?",
+    "answer1": "The belief your nation should grow",
+    "answer2": "Belief your nation is the best nation",
+    "answer3": "Belief in the idea of invisible borders",
+    "answer4": "Belief all governments are inherently equal",
+    "answer": "Belief your nation is the best nation"
+  },
+  {
+    "q": "What did The monroe doctrine do?",
+    "answer1": "Invited Europeans to come to the Americas",
+    "answer2": "Invited Americans to come to Europe",
+    "answer3": "Warned Americans to stay out of Europe",
+    "answer4": "Warned Europeans to stay out of the americas",
+    "answer": "Warned Europeans to stay out of the americas"
+  },
+  {
+    "q": "What was the Underground Railroad?",
+    "answer1": "Secret system that moved trains",
+    "answer2": "The subway",
+    "answer3": "Secret system to help slaves escape to freedom",
+    "answer4": "A Railroad that smuggled slaves",
+    "answer": "Secret system to help slaves escape to freedom"
+  },
+  {
+    "q": "What was a free state?",
+    "answer1": "state that does not permit slavery",
+    "answer2": "state that does not permit money",
+    "answer3": "state that does not print money",
+    "answer4": "state that does not have border control",
+    "answer": "state that does not permit slavery"
+  },
+  {
+    "q": "What were the slave codes?",
+    "answer1": "laws that only applied to slaves meant to keep them slaves",
+    "answer2": "secret messages only slaves could read",
+    "answer3": "laws about how many slave you could have",
+    "answer4": "Refering to slaves by number instead of name",
+    "answer": "laws that only applied to slaves meant to keep them slaves"
+  },
+  {
+    "q": "What does secede mean?",
+    "answer1": "To plant grain",
+    "answer2": "To forage for grain",
+    "answer3": "To complete an endeavor",
+    "answer4": "To break away from a whole",
+    "answer": "To break away from a whole"
+  },
+  {
+    "q": "What is Sectionalism?",
+    "answer1": "Loyalty to a part of a country not to the whole country",
+    "answer2": "Belief that there should be more states",
+    "answer3": "Loyalty to a part of a state",
+    "answer4": "Belief that there should be less states",
+    "answer": "Loyalty to a part of a country not to the whole country"
+  },
+  {
+    "q": "What is an alliance?",
+    "answer1": "A friendly relationship",
+    "answer2": "A gathering of statesmen",
+    "answer3": "A sensitivity to light",
+    "answer4": "an agreement to attack another nation if either nation is invaded",
+    "answer": "an agreement to attack another nation if either nation is invaded"
+  },
+  {
+    "q": "When was the Bill of rights signed?",
+    "answer1": "1789",
+    "answer2": "1790",
+    "answer3": "1791",
+    "answer4": "1792",
+    "answer": "1791"
+  },
+  {
+    "q": "What was the economic boom between the world wars called?",
+    "answer1": "Amazing Twenties",
+    "answer2": "Roaring Twenties",
+    "answer3": "Changing Twenties",
+    "answer4": "Alarming Twenties",
+    "answer": "Roaring Twenties"
+  },
+  {
+    "q": "Which of these countries did not participate in the cold war?",
+    "answer1": "United States",
+    "answer2": "Soviet Union",
+    "answer3": "Vietnam",
+    "answer4": "Singapore",
+    "answer": "Singapore"
+  },
+  {
+    "q": "Adolf Hitler was the leader of which party?",
+    "answer1": "Democratic",
+    "answer2": "Republican",
+    "answer3": "Nazi",
+    "answer4": "Whig",
+    "answer": "Nazi"
+  },
+  {
+    "q": "What is the system that balances the branches of government?",
+    "answer1": "Abratism",
+    "answer2": "Checks and Balances",
+    "answer3": "Legalism",
+    "answer4": "Federalism",
+    "answer": "Checks and Balances"
+  },
+  {
+    "q": "The lost colony refers to which colony?",
+    "answer1": "Massachusetts",
+    "answer2": "Jamestown",
+    "answer3": "Roanoke",
+    "answer4": "Virginia",
+    "answer": "Roanoke"
+  },
+  {
+    "q": "What year did the pilgrims settle in north america?",
+    "answer1": "1492",
+    "answer2": "1620",
+    "answer3": "1690",
+    "answer4": "1776",
+    "answer": "1620"
+  },
+  {
+    "q": "In 1790 Which states gave land to create washington D.C.?",
+    "answer1": "Washington & Virginia",
+    "answer2": "Virginia and West Virginia",
+    "answer3": "Maryland & Virginia",
+    "answer4": "Maryland & Washington",
+    "answer": "Maryland & Virginia"
+  },
+  {
+    "q": "Which country is the largest in the world?",
+    "answer1": "Spain",
+    "answer2": "Russia",
+    "answer3": "The U.S.",
+    "answer4": "Australia",
+    "answer": "Russia"
+  },
+  {
+    "q": "Which U.S. State is not in north america?",
+    "answer1": "The Virgin Islands",
+    "answer2": "Alaska",
+    "answer3": "Florida",
+    "answer4": "Hawaii",
+    "answer": "Hawaii"
+  },
+  {
+    "q": "Which two countries are seperated by the Rio Grande River?",
+    "answer1": "Mexico and Guatemala",
+    "answer2": "the U.S. and Canada",
+    "answer3": "the U.S. and Mexico",
+    "answer4": "Canada and Russia",
+    "answer": "the U.S. and Mexico"
+  },
+  {
+    "q": "Who was the first European to land in north america?",
+    "answer1": "Leif Erikson",
+    "answer2": "Christopher Columbus",
+    "answer3": "Amerigo Vespucci",
+    "answer4": "Erik the Red",
+    "answer": "Leif Erikson"
+  },
+  {
+    "q": "Which one of these states was not one of the orginal thirteen colonies?",
+    "answer1": "Georgia",
+    "answer2": "Missouri",
+    "answer3": "Rhode Island",
+    "answer4": "New Jersey",
+    "answer": "Missouri"
+  },
+  {
+    "q": "Which of these acts imposed a tax on the american colonies that was despised?",
+    "answer1": "The Boston Tea Party",
+    "answer2": "Stamp Act",
+    "answer3": "The Paper Tax",
+    "answer4": "The Seven Years War Tax",
+    "answer": "Stamp Act"
+  },
+  {
+    "q": "Who was the King of England during the american revolution?",
+    "answer1": "Henry the eighth",
+    "answer2": "George the third",
+    "answer3": "James the first",
+    "answer4": "Edward the seventh",
+    "answer": "George the third"
+  },
+  {
+    "q": "What was the last battle of the revolutionary war?",
+    "answer1": "The Battle of Cornwallis",
+    "answer2": "The Boston Uprising",
+    "answer3": "Victory at Virginia",
+    "answer4": "The Siege of Yorktown",
+    "answer": "The Siege of Yorktown"
+  },
+  {
+    "q": "Before the constitution there was?",
+    "answer1": "The Federalist papers",
+    "answer2": "The Bill of Rights",
+    "answer3": "Common Sense",
+    "answer4": "The Articles of Confederation",
+    "answer": "The Articles of Confederation"
+  },
+  {
+    "q": "Which of these was an armed uprising after the revolutionary war?",
+    "answer1": "The battle of Wounded Knee",
+    "answer2": "Veteran's Rebellion",
+    "answer3": "Shays' Rebellion",
+    "answer4": "Massachusetts uprising",
+    "answer": "Shays' Rebellion"
+  },
+  {
+    "q": "The first 10 amendments to the constitution are called?",
+    "answer1": "The Bill of Rights",
+    "answer2": "The 10 Amendments",
+    "answer3": "The Bill of Freedoms",
+    "answer4": "The Guaranteed Freedoms",
+    "answer": "The Bill of Rights"
+  },
+  {
+    "q": "Who wrote the lyrics to the national anthem?",
+    "answer1": "Walt Whitman",
+    "answer2": "Samuel A. Ward",
+    "answer3": "Francis Scott Key",
+    "answer4": "Ralph Waldo Emerson",
+    "answer": "Francis Scott Key"
+  },
+  {
+    "q": "What was the first battle of the american civil war?",
+    "answer1": "Battle of Antietam",
+    "answer2": "Battle of Fort Sumter",
+    "answer3": "Battle of Atlanta",
+    "answer4": "Battle of Fredericksburg",
+    "answer": "Battle of Fort Sumter"
+  },
+  {
+    "q": "Who was the president of the confederate states of america?",
+    "answer1": "Robert E. Lee",
+    "answer2": "Alexander H. Stephens",
+    "answer3": "Thomas Jefferson",
+    "answer4": "Jefferson Davis",
+    "answer": "Jefferson Davis"
+  },
+  {
+    "q": "Which of these reformers was a slave?",
+    "answer1": "Malcolm X",
+    "answer2": "John Brown",
+    "answer3": "Frederick Douglass",
+    "answer4": "Martin Luther King Jr.",
+    "answer": "Frederick Douglass"
+  },
+  {
+    "q": "Who assainated Abraham Lincoln?",
+    "answer1": "Lee Harvey Oswald",
+    "answer2": "Edwin Booth",
+    "answer3": "John Wilkes Booth",
+    "answer4": "John Warnock Hinckley Jr.",
+    "answer": "John Wilkes Booth"
+  },
+  {
+    "q": "how many amendments does the constitution currently have?",
+    "answer1": "10",
+    "answer2": "19",
+    "answer3": "27",
+    "answer4": "30",
+    "answer": "27"
+  },
+  {
+    "q": "Which era followed the civil war?",
+    "answer1": "Reconcilliation era",
+    "answer2": "Era of healing",
+    "answer3": "Era of good feelings",
+    "answer4": "Reconstruction era",
+    "answer": "Reconstruction era"
+  },
+  {
+    "q": "Which year did women gain the right to vote?",
+    "answer1": "1900",
+    "answer2": "1920",
+    "answer3": "1937",
+    "answer4": "1945",
+    "answer": "1920"
+  },
+  {
+    "q": "what day is considered the start of the great depression?",
+    "answer1": "October 29th 1929",
+    "answer2": "October 6th 1933",
+    "answer3": "November 22nd 1930",
+    "answer4": "October 20th 1930",
+    "answer": "October 29th 1929"
+  },
+  {
+    "q": "How many terms did FDR serve?",
+    "answer1": "3",
+    "answer2": "4",
+    "answer3": "5",
+    "answer4": "6",
+    "answer": "4"
+  },
+  {
+    "q": "When did the Japanese attack Pearl Harbor?",
+    "answer1": "November 7th 1940",
+    "answer2": "December 7th 1941",
+    "answer3": "October 31st 1941",
+    "answer4": "December 10th 1944",
+    "answer": "December 7th 1941"
+  },
+  {
+    "q": "D-Day is also known as?",
+    "answer1": "The Western Liberation",
+    "answer2": "The Normandy landings",
+    "answer3": "The French landings",
+    "answer4": "The Western Invasion",
+    "answer": "The Normandy landings"
+  },
+  {
+    "q": "Which person refused to give up their seat on a bus?",
+    "answer1": "Dorothy Height",
+    "answer2": "Fannie Lou Hamer",
+    "answer3": "Rosa Parks",
+    "answer4": "Jo Ann Robinson",
+    "answer": "Rosa Parks"
+  },
+  {
+    "q": "Which of these court cases decleared school segregation unconstituional?",
+    "answer1": "Roe v Wade",
+    "answer2": "Brown v Board of Education",
+    "answer3": "Parents v City of Topeka",
+    "answer4": "Plessy v Ferguson",
+    "answer": "Brown v Board of Education"
+  },
+  {
+    "q": "When was the civil rights act passed?",
+    "answer1": "1965",
+    "answer2": "1963",
+    "answer3": "1960",
+    "answer4": "1964",
+    "answer": "1964"
+  }
+]

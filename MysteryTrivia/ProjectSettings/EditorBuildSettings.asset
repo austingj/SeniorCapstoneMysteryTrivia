@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: a7151cfe17fedb54aa5012de511ef0f4
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Categories.unity
+    guid: b089234f5329b4246972dba3e6de0512
+  - enabled: 1
+    path: Assets/Scenes/ResetPassword.unity
+    guid: d91dff5fab52a354cb2466f99b949ffa
+  - enabled: 1
+    path: Assets/Scenes/PlayMenu.unity
+    guid: e8ae67e79f6a9e14ca7a108cdbea811e
+  - enabled: 1
+    path: Assets/Scenes/Teachers.unity
+    guid: c4bd6ec2b284fe14fbe4d7269ad01047
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze00.unity
+    guid: 9746a7af74321f142a95bbb42a921b4f
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze5.unity
+    guid: a4a6e263c0b55344fb91d412b7e422ca
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze3.unity
+    guid: 7cf2c24b22b951948a8a1ff0eb58efff
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze7.unity
+    guid: 6fbb24734b433c64e95a847071d7824a
+  - enabled: 1
+    path: Assets/Scenes/MazeMarrone3.unity
+    guid: 0990e0c3471fca74b8c03d17d2d01cd6
+  - enabled: 1
+    path: Assets/Scenes/MazeMarrone2.unity
+    guid: 11250c4ec0e519448a908bda823ebd72
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC2.unity
+    guid: 42c76a82d86e26548a3fabfa6e2136ef
+  - enabled: 1
+    path: Assets/Scenes/mazeMarrone4.unity
+    guid: 2e1e787cf98253c4385332ee45d13d81
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze4.unity
+    guid: ce4c736e536642246a32c9f910275bf7
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze9.unity
+    guid: a7f31c731bb813b46b95cde89eeadff5
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze11.unity
+    guid: d3cc065bb573b7b43bdca91f730b09d3
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC12.unity
+    guid: e8d18598bb1d1434eada1589fe1c6236
+  - enabled: 1
+    path: Assets/Scenes/mazeMarrone6.unity
+    guid: d559e8c191e85f447ad3c2ef2a98320d
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC14.unity
+    guid: 8978b9ddbf5cfed45991794fac124be2
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC13.unity
+    guid: ec96144f26450fc4496999dfaf7c1ba2
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze6.unity
+    guid: a727a0555adce914fb25e251bda55e58
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze8.unity
+    guid: ac21f02516bc1744b8fe61a25f8e9378
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze15.unity
+    guid: d958bf70851ed264bb21eebfb49e8464
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze13.unity
+    guid: ea9729506f4a2854ba0947d6b73678ed
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC1.unity
+    guid: 658118a67c9c5b3468aa9d9516009109
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC3.unity
+    guid: e1c0ae077b1b46d45a59e9449ee198f3
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC15.unity
+    guid: 6c9de8efe24c6544daa8606cb368918b
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC4.unity
+    guid: 4dd09bd516d37304aab1b08011c3d079
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze10.unity
+    guid: 3d7731fdb458d324abc99bb7072c5099
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze12.unity
+    guid: 8419c68cc97207648ae924872594a20e
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze2.unity
+    guid: 4c1656289d79efb46875394981b81690
+  - enabled: 1
+    path: Assets/Scenes/AustinMaze14.unity
+    guid: 09863d057c7d9a845ba8fd8dab0902b1
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC5.unity
+    guid: bd50e31d7ec1c514a88dc8c30e0d6975
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC6.unity
+    guid: 7cfd4b00b85cf8e41acaaca5bbba9543
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC7.unity
+    guid: 4090e56b7026a6a4e9ba5d4a65cccb28
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC8.unity
+    guid: 93678ca09117b4a4ba239f529fb3b940
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC9.unity
+    guid: 0d89f2cbd2b96f64db7188edc741073c
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC10.unity
+    guid: 931eb736042764d49acd2a3ed7a5ea65
+  - enabled: 1
+    path: Assets/Scenes/Maze-MC11.unity
+    guid: f4f1e00fd77a48142804f6293d2fc94b
+  - enabled: 1
+    path: Assets/Scenes/MazeMarrone1.unity
+    guid: a7b07766faa1ad9439902f167bde3eb4
+  - enabled: 1
+    path: Assets/Scenes/Maze_MR4.unity
+    guid: d419da5870013d440a658459ee344d6b
+  - enabled: 1
+    path: Assets/Scenes/Maze_MR5.unity
+    guid: 0d59846aa1d98e146b4f288815642c42
+  - enabled: 1
+    path: Assets/Scenes/Maze_MR6.unity
+    guid: 285725cc0ecbfde41af1392744046eaa
+  - enabled: 1
+    path: Assets/Scenes/Maze_MR7.unity
+    guid: e2c981255e6d0444bb19f3bfdcd8ca59
+  - enabled: 1
+    path: Assets/Scenes/Maze_MR9.unity
+    guid: 3df680bc15f2d9c4faf6ea8d3a2f7492
+  - enabled: 1
+    path: Assets/Scenes/mazeMarrone7.unity
+    guid: c7826f30440f2af41aa3b0078f635164
+  m_configObjects: {}

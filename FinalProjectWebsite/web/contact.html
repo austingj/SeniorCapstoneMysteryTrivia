@@ -1,0 +1,61 @@
+<!DOCTYPE html >
+<html >
+<head>
+<title>Mystery Trivia</title>
+<link rel="icon" href="images/title.jpeg">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+<div id="container">
+  <div id="head">
+    <div id="myname"> <a><img src="images/logo.jpeg"/></a> </div>
+  </div>
+  <div class="topnav" id="myTopnav">
+    <a href="homepage.html">Play</a>
+    <a href="howtoplay.html">How To Play</a>
+    <a href="about.html">About Us</a>
+    <a href="contact.html" class="active">Contact Us</a>
+    <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>
+  <div id="blueline"></div>
+  <div id="realbody">
+    <div id="content">
+      <div class="bubble">
+      </div>
+      <p style="justify-content:center;text-align:center;align-items:center;font-size: 22px;color:white; font-family: Verdana, Arial, Times, san-serif;">If you have any issues or feedback about our game, please feel free to leave a message.</p>
+      <div class="contact">
+        <form action="/web/contact.html" method="get" class="contact-form">
+            <div class="form-group">
+                <input type="text" id="contact_name" name="contact_name" class="form-control" placeholder="Full Name" required="">
+            </div>
+            <div class="form-group">
+                <input type="email" id="contact_email" name="contact_email" class="form-control" placeholder="Email" required="">
+            </div>
+            <div class="form-group">
+                <textarea id="contact_message" name="contact_message" class="form-control" rows="9" placeholder="Message" required=""></textarea>
+            </div>
+            <button id = "button1" type="submit" class="btn">Submit</button>
+            <script> console.log("SDFSD");
+                const a  = document.getElementById('button1');
+                    a.addEventListener("click", function(){
+                        var link = "mailto:mdrubel3331@gmail.com"
+                        + "?cc=mdrubel3331@gmail.com"
+                        + "&body=" + encodeURIComponent(document.getElementById('contact_message').value);
+                       window.location.href = link;
+                    });
+            </script>
+        </form>
+    </div>
+
+  </div>
+  <div id="foot">
+    <p style="font-size:100%;text-align: center;">&#169; 2023: Wayne State University &#8482;</p>
+
+  </div>
+</div>
+</html>

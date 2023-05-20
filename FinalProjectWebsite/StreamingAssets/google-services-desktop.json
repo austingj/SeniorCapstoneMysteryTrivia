@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310917244315",
+    "project_id": "mysterytriviadb-ff03f",
+    "firebase_url": "https://mysterytriviadb-ff03f-default-rtdb.firebaseio.com/",
+    "storage_bucket": "mysterytriviadb-ff03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310917244315:android:50ba4cd5a18639ba64ed3e",
+        "android_client_info": {
+          "package_name": "com.MysteryTrivia.Project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310917244315-uk6mmv9ihfoimekdk2tp215le7fbn7qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWrTZ__bpwjJPZnlSEpyxy8iPIDfmVfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310917244315-uk6mmv9ihfoimekdk2tp215le7fbn7qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

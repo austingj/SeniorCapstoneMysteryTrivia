@@ -1,0 +1,71 @@
+<!DOCTYPE html >
+<html >
+<head>
+<title>Mystery Trivia</title>
+<link rel="icon" href="images/title.jpeg">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<link href="style.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="script.js"></script>
+</head>
+<body class="mainwrpbody">
+  <div class="mainwrp">
+    <div id="container">
+      <div id="head">
+        <div id="myname"> <a><img src="images/logo.png"></a> </div>
+      </div>
+      <div class="topnav" id="myTopnav">
+        <a href="homepage.html">Play</a>
+        <a href="howtoplay.html">How To Play</a>
+        <a href="about.html" class="active">About Us</a>
+        <a href="contact.html">Contact Us</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+          <i class="fa fa-bars"></i>
+        </a>
+      </div>
+      <div id="blueline"></div>
+      <div id="realbody">
+        <div id="content">
+          <div class="bubble">
+          </div>
+          <div class="media-body">
+            <h3 >Introduction</h3><!--different bcakground-->
+            <p style="font-size:20px;font-family: 'Comic Sans MS', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Our game is a simple, fun-to-play game directed towards kids to solve mazes, where to pass through the maze, there is fun, educational questions to answer!</p>	
+        </div>
+        <div class="media-body" >
+            <h3>Purpose</h3>
+            <p style="font-size:20px;font-family: 'Comic Sans MS', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Our goal is to create and facilitate a educational game for young students to learn and advance their skills and knowledge to create a brighter future!</p>	
+        </div>
+        <div class="media-body">
+            <h3>Who We Are</h3>
+            <p style="font-size:20px;font-family: 'Comic Sans MS', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"> <b>Mohommad Rubel:</b> Website Developer and Presentation Lead!<br>
+            <b> Mohommad Chokr: </b> Game Developer and Back-end Lead!<br>
+            <b>Austin Jeffrey:</b> Team Lead !<br>
+            <b>Jason Marrone:</b> Front-end Lead!</p>		
+        </div>
+        <div class="media-body" >
+            <h3>Our Ambitions</h3>
+            <p style="font-size:20px;font-family: 'Comic Sans MS', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">We hope that our software game will touch many students lives and allow for students to learn without them knowing!</p>	
+        </div>
+        <script>
+          console.log("HI");
+          let hrElement;
+          let counter = 100;
+          for (let i = 0; i < counter; i++) {
+              hrElement = document.createElement("HR");
+              hrElement.style.left = Math.floor(Math.random() * window.innerWidth) + "px";
+              hrElement.style.animationDuration = 0.2 + Math.random() * 0.3 + "s";
+              hrElement.style.animationDelay = Math.random() * 5 + "s";
+              console.log(hrElement);
+              document.body.appendChild(hrElement);
+            }
+          </script>
+      </div>
+      <div id="foot">
+        <p style="font-size:100%;text-align: center">&#169; 2023: Wayne State University &#8482;</p>
+
+      </div>
+    </div>
+  </div>
+</html>
